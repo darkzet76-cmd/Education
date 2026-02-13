@@ -105,6 +105,7 @@ html, body {
  width: 820px;
  margin: 0 auto;
  text-align: justify;
+  color: white;
 }
 
 #flat .block-gray {
@@ -205,5 +206,6 @@ html, body {
   width: 290px;
  }
 }
+
 
 
