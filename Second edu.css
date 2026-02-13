@@ -73,17 +73,17 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.first-character-plum {
+.fc-plum {
   color: #DDA0DD;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-.first-character-BlueViolet {
+.fc-BlueViolet {
   color: #8A2BE2;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-.first-character-DarkMagenta {
+.fc-DarkMagenta {
   color: #8B008B;
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -204,3 +204,4 @@ html, body {
   width: 290px;
  }
 }
+
