@@ -239,7 +239,7 @@ ul {
   font-family: 'Montserrat', sans-serif;
   font-size: 0.85vw;
   transform: rotate(-90deg);
-  margin-left: -120px;
+  margin-left: -200px;
   margin-top: -12vw;
   letter-spacing: 0.2vw;
   z-index: 3;
@@ -410,6 +410,7 @@ img {
  filter: drop-shadow(4px 10px 15px ff97bb);
 }
 }
+
 
 
 
