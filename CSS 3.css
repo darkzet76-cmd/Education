@@ -27,7 +27,7 @@ html {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    background-color: ff97bb;
+    background-color: #FFEFD5;
   }     
   *{
   margin: 0;
@@ -410,5 +410,6 @@ img {
  filter: drop-shadow(4px 10px 15px ff97bb);
 }
 }
+
 
 
