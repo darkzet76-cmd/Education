@@ -201,6 +201,18 @@ img {
  #one2 {
   background: linear-gradient(to bottom right, #FFD700, #FFFF00);
 }
+ #two2 {
+  background: linear-gradient(to bottom right, #00BFFF, #1E90FF);
+}
+ #three2 {
+  background: linear-gradient(to bottom right, #008B8B;, #40E0D0);
+}
+ #four2 {
+  background: linear-gradient(to bottom right, #FF4500;, #FF8C00);
+}
+ #five2 {
+  background: linear-gradient(to bottom right, #C71585;, #FF69B4);
+}
 .poster {
   width: 70vw;
   margin-top: 4vw;
@@ -398,3 +410,4 @@ img {
  filter: drop-shadow(4px 10px 15px ff97bb);
 }
 }
+
