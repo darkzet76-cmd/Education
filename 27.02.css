@@ -194,7 +194,7 @@ width: 95%;
 
   top: 0px;
 
-  left: -10px;
+  left: 0px;
 
   position: absolute;
 
@@ -204,7 +204,7 @@ width: 95%;
 }
 .loader {
 
-  width: 110px !important;
+  width: 121px !important;
 
 }
 
@@ -357,7 +357,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 700px !important;
+  height: 720px !important;
 
 }
 #nav-container {
@@ -459,6 +459,7 @@ float: left;
 }
 
  font-family: 'Montserrat', sans-serif; 
+
 
 
 
