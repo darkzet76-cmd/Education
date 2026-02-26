@@ -144,7 +144,7 @@ width: 95%;
 
   transition: .7s ease-in-out;
 
-  color: rgba(70,130,180);
+  color: #FFD700;
 
 }
 #intro a {
@@ -166,6 +166,7 @@ width: 95%;
   left: 0;
 
   top: 0;
+  color: #FFD700;
 
 }
 #button-container {
@@ -458,5 +459,6 @@ float: left;
 }
 
  font-family: 'Montserrat', sans-serif; 
+
 
 
