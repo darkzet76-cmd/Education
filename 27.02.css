@@ -193,7 +193,7 @@ width: 95%;
 
   top: 0px;
 
-  left: 0;
+  left: -20px;
 
   position: absolute;
 
@@ -315,7 +315,7 @@ width: 95%;
 }
 #menu-button.change-color div {
 
-  background: #FF0000;
+  background: #FF8C00;
 
 }
 #menu-button.hover-animation div:nth-child(1), #menu-button.hover-animation div:nth-child(4) {
@@ -343,7 +343,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githubusercontent.com/darkzet76-cmd/Education/refs/heads/main/7de0c8244068961.698ee04c54bf7%201.pngи");
+  background: url("https://raw.githubusercontent.com/darkzet76-cmd/Education/refs/heads/main/4b315d233967607.68b9a7d27967e%201.png");
 
   left: 0;
 
@@ -356,7 +356,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 700px !important;
+  height: 399px !important;
 
 }
 #nav-container {
@@ -419,7 +419,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #FF0000;
+  color: #FF8C00;
 
   transition: .3s ease-in-out;
 
@@ -438,6 +438,8 @@ width: 95%;
   color: #FF0000 !important;
 
 }
+.first-character {
+color: #00BFFF;
 float: left;
 
  font-size: 84px;
@@ -449,5 +451,7 @@ float: left;
  padding-right: 8px;
 
  padding-left: 3px;
+}
+
 
  font-family: 'Montserrat', sans-serif; 
