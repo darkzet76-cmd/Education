@@ -3,11 +3,11 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  height: 30%;
+  height: 100%;
   background-color: #f5e0e5;
   position: relative;
   font-family: "Roboto", sans-serif;
-  background-image: url("https://github.com/darkzet76-cmd/Education/blob/main/Бунин%202026%20ЛУЧШАЯ-1.jpg?raw=true")
+  background-image: url("https://raw.githubusercontent.com/darkzet76-cmd/Education/refs/heads/main/Бунин%202026%20ЛУЧШАЯ-1%201.png")
 }
 .player {
   position: absolute;
@@ -18,7 +18,7 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px #dbdbdb;
-  background-image: url("https://raw.githubusercontent.com/darkzet76-cmd/Education/refs/heads/main/Бунин%202026-14.jpg")
+  background-image: url("https://raw.githubusercontent.com/darkzet76-cmd/Education/refs/heads/main/Group%2050.png")
 }
 .player input[type=range] {
   -webkit-appearance: none !important;
@@ -227,3 +227,4 @@ body {
   transform: translate(-50%, -50%);
 
 }
+
